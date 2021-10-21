@@ -12,3 +12,9 @@ You can click the Preview link to take a look at your changes.
 int num;
 if(num<10{
 }
+
+for(num : c){
+  if(num<10){
+    system.out.println("Hello World");
+  }
+}
